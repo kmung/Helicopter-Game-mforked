@@ -1,5 +1,5 @@
-#include<math.h>
-#include<iostream.h>
+#include <math.h>
+#include<iostream>
 #include<conio.h>
 #include<time.h>
 #include<graphics.h>
